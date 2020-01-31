@@ -1,3 +1,11 @@
+
+## Session Slides
+
+- Javascript: https://docs.google.com/presentation/d/1fTBig0MO53GGOzyJj6Ak6VR-l4rgzA6VnuYm35KJFNs/edit?usp=sharing
+- React: https://docs.google.com/presentation/d/1w2Vy7tR7Oz0_FBPn4V5-c4eiSTOy6nDm1mdSsk4b-Sk/edit?usp=sharing
+
+
+## Information about Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
